@@ -21,3 +21,10 @@ Durch die aktive Teilnahme an diesem Workshop erwerben Sie praktische Kompetenze
 In 5-10-minütigen Projekt-Pitches sollen die Teilnehmenden außerdem ihre eigenen Forschungsarbeiten vorstellen und können dabei auch ihre zentralen methodischen Herausforderungen zur Diskussion stellen.
 
 Die Unterbringung am Tagungsort sowie Fahrtkosten bis maximal 150€ können für aktive TeilnehmerInnen übernommen werden. Das Corpus der barocken Deckenmalerei in Deutschland (CbDD) ist ein Forschungsprojekt im Akademienprogramm der Union der Deutschen Akademien der Wissenschaften und wird betreut von der Bayerischen Akademie der Wissenschaften in München.
+
+## Setup
+
+Es wäre sinnvoll sich [einen Wikimedia Account zuzulegen](https://auth.wikimedia.org/dewiki/w/index.php?title=Spezial:Benutzerkonto_anlegen&campaign=loginCTA), um die [Jupyter Notebooks](https://de.wikipedia.org/wiki/Project_Jupyter) auf der [Wikimedia PAWS Instanz](https://hub-paws.wmcloud.org/hub) auszuführen (Keine Installation notwendig!).
+Dort gibt es auch eine frei nutzbare Version von [Openrefine](https://de.wikipedia.org/wiki/OpenRefine).
+
+Sowohl Jupyter Notebooks als auch OpenRefine lassen sich naturlich auch lokal installieren, siehe die Anleitungen auf den jeweiligen Projektseiten.
