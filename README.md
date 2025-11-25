@@ -2,8 +2,9 @@
 
 <https://www.hsozkult.de/event/id/event-155820>
 
-Die Arbeitsstelle Marburg des Corpus der barocken Deckenmalerei in Deutschland (CbDD) und das NFDI4Memory Promovierendennetzwerk Digital History laden vom 26. bis 28.11. zu einem Workshop nach Marburg ein, um gemeinsam einen disziplinübergreifenden Blick auf digitale Kompetenzen, Werkzeuge und Methoden zu werfen.
-Historical Data Hacking: Digitale Werkzeuge zur Erschließung historischer Datensätze
+Die Arbeitsstelle Marburg des Corpus der barocken Deckenmalerei in Deutschland (CbDD) und das NFDI4Memory Promovierendennetzwerk Digital History laden vom 26. bis 28.11. zu einem Workshop nach Marburg ein, um gemeinsam einen disziplinübergreifenden Blick auf digitale Kompetenzen, Werkzeuge und Methoden zu werfen
+
+## Historical Data Hacking: Digitale Werkzeuge zur Erschließung historischer Datensätze
 
 Der Workshop gibt einen Einblick in das Akademienprojekt CbDD und die dort erarbeiteten Forschungsdatenstrukturen sowie Analyse- und Auswertungsmethoden, an denen das Deutsche Dokumentationszentrum für Kunstgeschichte – Bildarchiv Foto Marburg neben der Ludwig-Maximilians-Universität in München seit 2015 als selbstständige Arbeitsstelle beteiligt ist. Zusammen mit dem 2024 gebildeten Promovierendennetzwerk Digital History (PnDH), das Doktoranden mit digital-historischen Themen aus den Geisteswissenschaften zusammenbringt, um zu erproben, wie digitale Methoden und wissenschaftliche Standards in heutigen und zukünftigen Dissertationen zusammenwirken können, sollen Ideen für sinnvolle Herangehensweisen an Forschungsdaten gesammelt werden.
 
